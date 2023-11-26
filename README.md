@@ -3,7 +3,7 @@
 ## Manual del buen organizador 1.0
 by Android Dev Perú
 
-Este manual es una contribución a la sociedad sobre la experiencia adquirida respecto a crear, administrar, dar continudad y hacer divertida una comunidad de desarrolladores.
+Este manual es una contribución a la sociedad sobre la experiencia adquirida respecto a crear, administrar, dar continuidad y hacer divertida una comunidad de desarrolladores.
 
 ### Bienvenida
 Gracias por estar aquí y participar en la comunidad. Un Organizer es un Android Dev y  miembro activo, muy interesado en el crecimiento de la comunidad, que sacrifica parte de su tiempo libre para las actividades y le encanta aprender constantemente. ¡Welcome to Organizer en Android Dev Perú ! 
@@ -21,6 +21,25 @@ Gracias por estar aquí y participar en la comunidad. Un Organizer es un Android
 
 
 ### Directorio, redes sociales, accesos
+- Github
+[https://github.com/Android-Dev-Peru](https://github.com/Android-Dev-Peru), solicitar acceso a (organizer admin)
+- Google Drive [link](link), solicitar acceso a (organizer admin)
+
+- Twitter [https://twitter.com/androiddevperu](https://twitter.com/androiddevperu), acceder con el correo de la comunidad.
+- Youtube [https://www.youtube.com/@AndroidDevPeru](https://www.youtube.com/@AndroidDevPeru) , acceder con el correo de la comunidad.
+- WhatsApp Community, solicitar acceso a los organizers admin.
+	- Acceso a la comunidad [link](link)
+	- Contamos con los siguientes grupos : Announcements, Comunidad Android Dev Perú, Ofertas Laborales Android y Random.
+- Bio Link [https://bio.link/androiddevperu](https://bio.link/androiddevperu), revisar acceso en google keep.
+- LinkedIn [https://www.linkedin.com/company/android-dev-peru/
+](https://www.linkedin.com/company/android-dev-peru/
+) , solicitar acceso a (organizer admin)
+- Instagram [https://www.instagram.com/androiddevperu/
+](https://www.instagram.com/androiddevperu/
+), revisar acceso en google keep.
+- Tiktok [https://www.tiktok.com/@androiddevperu](https://www.tiktok.com/@androiddevperu)
+- Facebook Fanpage (deprecated) [https://www.facebook.com/androiddevpe](https://www.facebook.com/androiddevpe)
+
 
 ### Credenciales
 Pueden utilizar [google keep](https://www.google.com/keep/) para compartir las credenciales de la comunidad con todo el equipo de organizadores.
