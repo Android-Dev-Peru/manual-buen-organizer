@@ -257,3 +257,10 @@ Tiktok: https://www.tiktok.com/@androiddevperu
 
 ```
 
+### ¿Con qué tools trabajamos?
+
+- Streaming Yard [https://streamyard.com/](https://streamyard.com/)
+- Pixelmator [https://www.pixelmator.com/](https://www.pixelmator.com/)
+- Canva [canva.com/](canva.com/)
+- Capcut [https://www.capcut.com/](https://www.capcut.com/)
+- BioLink [https://bio.link/](https://bio.link/)
