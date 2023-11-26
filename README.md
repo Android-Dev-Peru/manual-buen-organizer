@@ -16,7 +16,7 @@ Gracias por estar aquí y participar en la comunidad. Un Organizer es un Android
 - Eduardo Medina @eduardomedina
 - Freddy Raul Lazo Cárdenas @FreddyLazoc
 - Jose Flavio Quispe Irrazábal @jflavio11
-- Josue Durán @JosueDurandPebe
+- Josue Durand @JosueDurandPebe
 - Pedro Rau de la Cruz @praudlacruz
 
 
