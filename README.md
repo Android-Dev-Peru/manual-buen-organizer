@@ -107,7 +107,7 @@ Contamos con varias opciones y templates para la construcción de los flyers, pu
 	- Foto grupal con todos los asistentes
 
 ### ¿Cómo crear un evento en StreamYard y youtube?
-1. Loguearse en Streamyard usando el gmail de la comunidad.
+1. Ingresar a Streamyard usando el gmail de la comunidad.
 2. En la pantalla principal, iniciar "Create a broadcast" > "New broadcast"
 3. Llenar el formulario
 
@@ -143,7 +143,7 @@ Darle a "View on Youtube" para obtener el link de la transmisión pública que s
 
 
 ### ¿Cómo escribir el post de resumen en Dev.to?
-1. Logueate a https://dev.to/ con la cuenta de Android Dev Peru. 
+1. Ingresar a https://dev.to/ con la cuenta de Android Dev Peru. 
 	- Como método de login, utiliza Twitter. Revisar las credenciales 
 2. Selecciona "Create post"
 3. Escribe el post:
