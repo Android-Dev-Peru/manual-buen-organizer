@@ -28,7 +28,7 @@ Gracias por estar aquí y participar en la comunidad. Un Organizer es un Android
 - Twitter [https://twitter.com/androiddevperu](https://twitter.com/androiddevperu), acceder con el correo de la comunidad.
 - Youtube [https://www.youtube.com/@AndroidDevPeru](https://www.youtube.com/@AndroidDevPeru) , acceder con el correo de la comunidad.
 - WhatsApp Community, solicitar acceso a los organizers admin.
-	- Acceso a la comunidad [link](link)
+	- Acceso a la comunidad [https://chat.whatsapp.com/Il7yhDYCj8zLVDrK7OpFOm](https://chat.whatsapp.com/Il7yhDYCj8zLVDrK7OpFOm)
 	- Contamos con los siguientes grupos : Announcements, Comunidad Android Dev Perú, Ofertas Laborales Android y Random.
 - Bio Link [https://bio.link/androiddevperu](https://bio.link/androiddevperu), revisar acceso en google keep.
 - LinkedIn [https://www.linkedin.com/company/android-dev-peru/
