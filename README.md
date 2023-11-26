@@ -1,15 +1,15 @@
 # manual-buen-organizer
 
-##Manual del buen organizador 1.0
+## Manual del buen organizador 1.0
 by Android Dev Perú
 
 Este manual es una contribución a la sociedad sobre la experiencia adquirida respecto a crear, administrar, dar continudad y hacer divertida una comunidad de desarrolladores.
 
-###Bienvenida
+### Bienvenida
 Gracias por estar aquí y participar en la comunidad. Un Organizer es un Android Dev y  miembro activo, muy interesado en el crecimiento de la comunidad, que sacrifica parte de su tiempo libre para las actividades y le encanta aprender constantemente. ¡Welcome to Organizer en Android Dev Perú ! 
 
 
-###Organizers
+### Organizers
 - Bruno Aybar @brunoaybarg
 - Carlo Huaman @tohure_
 - Daniel Anaya @Deanayac
@@ -20,12 +20,12 @@ Gracias por estar aquí y participar en la comunidad. Un Organizer es un Android
 - Pedro Rau de la Cruz @praudlacruz
 
 
-###Directorio, redes sociales, accesos
+### Directorio, redes sociales, accesos
 
-###Credenciales
+### Credenciales
 Pueden utilizar [google keep](https://www.google.com/keep/) para compartir las credenciales de la comunidad con todo el equipo de organizadores.
 
-###¿Cómo andamos en las redes sociales?
+### ¿Cómo andamos en las redes sociales?
 Estamos en varias redes sociales, pero no necesariamente activos al 100% en todas, por lo cual es importante conocer nuestra realidad en las redes sociales 😁. A continuación se muestra el estado al 01 Oct del 2023 :
 
 - LinkedIn: 497 followers
@@ -35,7 +35,7 @@ Estamos en varias redes sociales, pero no necesariamente activos al 100% en toda
 - WhatsApp community : 276 members
 
 
-###¿Cómo organizar un meet?
+### ¿Cómo organizar un meet?
 Revisar si hay nuevas propuestas en github [propuestas-meetup](https://github.com/Android-Dev-Peru/propuestas-meetup)
 
 1. Coordinar con speaker fecha y disponibilidad del team organizer
@@ -44,7 +44,7 @@ Revisar si hay nuevas propuestas en github [propuestas-meetup](https://github.co
 4. Crear eventos en StreamYard y youtube.
 5. Publicar flyer en redes sociales.
 
-###¿Cómo  ser anfitrión en un meet online?
+### ¿Cómo  ser anfitrión en un meet online?
 Realizamos meetups mensuales alrededor del año, por lo que ya se vuelve una práctica común ser un anfitrión de una meetup, para lo cual es conveniente seguir los siguientes pasos : 
 
 - Hacer pruebas 20 o 30 minutos antes de realizar el meetup con los speakers y verificar que el audio y presentación funcione bien.
@@ -55,10 +55,10 @@ Realizamos meetups mensuales alrededor del año, por lo que ya se vuelve una pr�
 - Gestionar las preguntas de los invitados y seguir un orden para que el speaker pueda resolverlas. Tomar como referencia máximo 10 preguntas.
 - Finalmente, agradecer a todos por su participación, foto grupal y ¡chau !
 
-###¿Cómo crear un flyer para un meet? (WIP)
+### ¿Cómo crear un flyer para un meet? (WIP)
 Contamos con varias opciones y templates para la construcción de los flyers, pueden utilizar las que les resulte más cómoda.
 
-###¿Cómo organizar un meet presencial?
+### ¿Cómo organizar un meet presencial?
 1. Conseguir un speaker y propuesta de charla
 2. Contactarse con empresa/universidad/sponsor donde se realizará el evento
 3. Ver disponibilidad de Local del evento, fecha y hora. Normalmente se realizan de 07:00-09:30 PM
@@ -87,7 +87,7 @@ Contamos con varias opciones y templates para la construcción de los flyers, pu
 	- Break, bocaditos, networking
 	- Foto grupal con todos los asistentes
 
-###¿Cómo crear un evento en StreamYard y youtube?
+### ¿Cómo crear un evento en StreamYard y youtube?
 1. Loguearse en Streamyard usando el gmail de la comunidad.
 2. En la pantalla principal, iniciar "Create a broadcast" > "New broadcast"
 3. Llenar el formulario
@@ -123,7 +123,7 @@ Darle a "Invite a guest" para copiar el link que se le comparte al speaker para 
 Darle a "View on Youtube" para obtener el link de la transmisión pública que se comparte en redes.
 
 
-###¿Cómo escribir el post de resumen en Dev.to?
+### ¿Cómo escribir el post de resumen en Dev.to?
 1. Logueate a https://dev.to/ con la cuenta de Android Dev Peru. 
 	- Como método de login, utiliza Twitter. Revisar las credenciales 
 2. Selecciona "Create post"
@@ -150,12 +150,12 @@ El [DIA] de [MES], nos reunimos de forma [presencial | virtual] con un nuevo mee
 
 ```
 
-###¿Cómo publicar un evento en redes sociales ?
+### ¿Cómo publicar un evento en redes sociales ?
 Publicar en Linkedin, twitter y facebook(deprecated) (fan page, grupo).
 Revisar en credenciales para el acceso a las redes de la comunidad
 Si necesitan íconos, pueden revisar esto [symbolcopy.com](symbolcopy.com)
 
-####Template
+#### Template
 ```
 Hola a todos,
 Este <dia> <número> de <mes> tendremos el meetup #<número>, con el/los tema/temas 
@@ -182,13 +182,13 @@ Comparte el evento en tus redes y suscríbete al canal de la comunidad
 #android #kotlin #androiddevperu #perukug
 ```
 
-###¿Cómo realizar publicaciones en las redes sociales de la comunidad ?
+### ¿Cómo realizar publicaciones en las redes sociales de la comunidad ?
 
 Contamos con varias redes sociales, por lo cual es importante tener presente el público objetivo y que se quiere obtener o conseguir con la publicación. Si es informar, promover un evento, apoyar una causa, buscar interacción con los usuarios, completar una encuesta, etc.
 
 Lo primero es definir bien que se quiere publicar, luego compartir un documento con el post y discutirlo con el equipo por si requiere un ajuste. Tener muy presente el tono, la ortografía y que se haga los tags correctamente si es que se menciona una persona o comunidad.
 
-###¿Cómo obtener sponsors para la comunidad ? ¿Cómo contactar a una empresa para gestionar un meetup?
+### ¿Cómo obtener sponsors para la comunidad ? ¿Cómo contactar a una empresa para gestionar un meetup?
 
 1. Solicitar apoyo para eventos y local para eventos
 	- Revisar estos templates para correos a empresas/instituciones educativas AndroidDevPeru/Templates (wip)
@@ -198,7 +198,7 @@ Lo primero es definir bien que se quiere publicar, luego compartir un documento 
 3. Solicitar apoyo a Google mediante los Google Developer Groups (GDG) o directamente con los GDE.
 
 
-###¿Cómo cancelar un evento?
+### ¿Cómo cancelar un evento?
 Puede suceder que algún speaker cancele su charla un evento, por lo cual se recomienda seguir los siguientes steps:
 
 - Coordinar con el speaker para proponer una nueva fecha para evento o que nos envíe un video con su charla para subirla a Youtube (formato MP4).
@@ -219,7 +219,7 @@ Eliminar publicación en Instagram
 - Ir al post y eliminarlo
 
 
-###¿Cómo dar un mensaje de bienvenida a los nuevos miembros?
+### ¿Cómo dar un mensaje de bienvenida a los nuevos miembros?
 
 Pueden usar este template :
 
