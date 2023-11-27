@@ -256,7 +256,6 @@ Devto: https://dev.to/androiddevperu
 Tiktok: https://www.tiktok.com/@androiddevperu
 
 ```
-
 ### ¿Con qué tools trabajamos?
 
 - Streaming Yard [https://streamyard.com/](https://streamyard.com/)
