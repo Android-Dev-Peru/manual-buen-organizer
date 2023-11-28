@@ -150,7 +150,7 @@ Darle a "View on Youtube" para obtener el link de la transmisión pública que s
 
 ### ¿Cómo escribir el post de resumen en Dev.to?
 1. Ingresar a https://dev.to/ con la cuenta de Android Dev Peru. 
-	- Como método de login, utiliza Twitter. Revisar las credenciales 
+	- Como método de login, utiliza Twitter (revisar credenciales)
 2. Selecciona "Create post"
 3. Escribe el post:
 	- Cover image: la misma que usamos para el thumbnail de Youtube
@@ -264,7 +264,7 @@ Tiktok: https://www.tiktok.com/@androiddevperu
 
 ```
 
-### ¿Con qué tools trabajamos?
+### ¿Con qué herramientas trabajamos?
 
 - StreamYard [https://streamyard.com/](https://streamyard.com/)
 - Pixelmator [https://www.pixelmator.com/](https://www.pixelmator.com/)
