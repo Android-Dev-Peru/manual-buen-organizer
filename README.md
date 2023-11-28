@@ -97,7 +97,7 @@ Ya que realizamos meetups mensuales alrededor del año, se vuelve una práctica 
 	- Solicitar streaming de ser viable, caso contrario bastaría con internet y nosotros lo gestionamos.
 5. Coordinar con speaker, organizers y Local fecha/hora del evento.
 6. Sobre el acceso:
-	- Al publicar el evento, se usa alguna herramienta para registrar a los asistentes. Se solicita nombre completos y documento de identidad. Supongo que para el covid (carnet de vacunación con 3 vacunas)
+	- Al publicar el evento, se utiliza Google Form para registrar a los asistentes. Se solicita nombre completos y documento de identidad.
 	- Se crea una lista aparte para organizers y speakers.
 
 7. Cierre de registro y envío de asistentes:
