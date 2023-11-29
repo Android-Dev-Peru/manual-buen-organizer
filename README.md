@@ -222,6 +222,7 @@ Lo primero es definir bien que se quiere publicar, luego compartir un documento 
 	- Tener claro las condiciones del apoyo, ya que la comunidad no dicta cursos, no da meetups privados y que el acceso de nuestros eventos sea de acceso al público en general. Además, no realizamos eventos de paga, todos nuestros eventos son free.
 2. Solicitar apoyo a Jetbrains.
 3. Solicitar apoyo a Google mediante los Google Developer Groups (GDG) o directamente con los GDE.
+4. TIP: Un buen punto de inicio es buscar en las empresas donde trabajan los organizadores. Ejemplo, software factories, consultoras, etc.
 
 
 ### ¿Cómo cancelar un evento?
